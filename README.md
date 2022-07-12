@@ -1,8 +1,7 @@
 
 ## EDUCATION
-- Hosei University
-- 2016-2020
-- Faculty of Science and Engineering / Department of Electrical and Electronic Engineering
+- Hosei University (2016 ~ 2020)
+- Faculty of Science and Engineering / Department of Electrical and Electronic Engineering 
 - Thesis: 「Properties of Minimal Phase」
   
 
@@ -25,3 +24,21 @@
 ## SPEAKER
 - [Scrum Fest Niigata 2022: 開発エンジニアに聞いてみよう！QAが開発チームへに潜入し、一緒に品質活動をしているが、ぶっちゃけどう？](https://confengine.com/conferences/scrum-fest-niigata-2022/proposal/16455/qa)
 
+## Full-Time
+
+### Inc, Money Forword
+
+2021/6 ~ now
+
+#### Language
+- Ruby, TypeScript, JavaScript, Slim
+
+#### FW/Library
+- Rails, Vue.js (V2, V3), Stimulus.js
+- Sidekiq
+- Webpack, Storybook, Taildiwnd.css
+- Rspec, Jest, Vue-Test-Utils
+
+#### Cloud/Tool
+- AWS: ECS, ALB, Cloud Watch, S3 ...etc
+- MySQL, Docker, Circle CI, Data Dog, Rollbar ..etc
