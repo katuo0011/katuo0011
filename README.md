@@ -58,7 +58,7 @@
 ※ 2019/2 ~ 2020/3 is intern period
 
 #### Language
-- Go, Ruby, Node.js
+- Golang, Ruby, Node.js
 - JavaScript
 
 #### FW・Library
@@ -85,7 +85,7 @@
 2020/4 ~ now
 
 #### Language
-- Go, Python
+- Golang, Python
 - TypeScript, JavaScript
 
 #### FW・Library
