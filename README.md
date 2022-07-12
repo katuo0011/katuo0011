@@ -97,3 +97,9 @@
 - MySQL
 - Docker, Docker Compose
 - Swagger
+- raspberry pi4, duet 3D
+
+
+#### Related Link
+- [中国地方初！！建設用3Dプリンタの実証実験＆見学会 レポート！「Polyuse」と「加藤組（広島県）」がタッグ](https://digital-construction.jp/column/318)
+- [3Dプリンタで建設業をDXするPolyuse（ポリウス）、8,000万円をシード調達](https://thebridge.jp/2021/04/polyuse-seed-round-funding?fbclid=IwAR2If4jbob5lILWe0At5eumIN2kE2CbKjfK75zConkb0gBSQa2CIeMn8rAM)
