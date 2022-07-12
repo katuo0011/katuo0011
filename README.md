@@ -45,6 +45,10 @@
 - Docker
 - Circle CI, Data Dog, Rollbar
 
+#### Related Link
+- [「数値集計」機能をリリースしました](https://biz.moneyforward.com/support/attendance/news/new-feature/20211217.html)
+- [「回数集計」機能で自動集計設定を行えるようになりました](https://biz.moneyforward.com/support/attendance/news/new-feature/20220519.html)
+
 
 
 ### Inc, Every
