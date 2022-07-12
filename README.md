@@ -1,8 +1,4 @@
 
-## 🐟 katuo0011
-- ⛏ Software Developer
-- 🇯🇵 Tokyo
-
 ## 🎓 Degree
 
 - 2016-2020
