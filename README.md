@@ -24,7 +24,7 @@
 ## SPEAKER
 - [Scrum Fest Niigata 2022: 開発エンジニアに聞いてみよう！QAが開発チームへに潜入し、一緒に品質活動をしているが、ぶっちゃけどう？](https://confengine.com/conferences/scrum-fest-niigata-2022/proposal/16455/qa)
 
-## Full-Time
+## MAIN JOB
 
 ### Inc, Money Forword
 
@@ -71,6 +71,7 @@
 - Redash, Treasure Data, Data Dog, Sentry
 
 
+## SIDE JOB
 
 ### Inc, Polyuse
 
