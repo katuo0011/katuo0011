@@ -59,7 +59,7 @@
 
 #### FW・Library
 - Echo, Express.js
-- Nuxt.js, Vue.js, Riot.js
+- Nuxt.js, Vue.js (v2), Riot.js
 - Vuex, Vuetify, Storyboard
 - Fluentd
 
@@ -83,13 +83,13 @@
 
 #### FW・Library
 - Echo, Goa, 
-- Nuxt.js, Vue.js, Next.js, React.js
+- Nuxt.js, Vue.js (v2, v3), Next.js, React.js
 - Vuex, Vuetify, Tailwind.css
 
 #### Cloud・Tool
-- GCP: Cloud Run, Cloud Build, Cloud Pub/Sub, LoadBalancer, Cloud Armor, Cloud Storage, RDS
+- GCP: Cloud Run, Cloud Build, Cloud Pub/Sub, LoadBalancer, Cloud Armor, Cloud Storage, Cloud SQL
 - Firebase: Firebase Authentication, Firestore
 - Github Action
 - MySQL
-- Docker, docker-compose
+- Docker, Docker Compose
 - Swagger
