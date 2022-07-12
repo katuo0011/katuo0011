@@ -49,6 +49,8 @@
 
 ### Inc, Every
 
+2019/2 ~ 2021/5
+
 ※ 2019/2 ~ 2020/3 is intern period
 
 #### Language
@@ -67,3 +69,26 @@
 - Docker
 - Circle CI, Github Action
 - Redash, Treasure Data, Data Dog, Sentry
+
+
+
+### Inc, Polyuse
+
+2020/4 ~ now
+
+#### Language
+- Go, Python
+- TypeScript, JavaScript
+
+#### FW・Library
+- Echo, Goa, 
+- Nuxt.js, Vue.js, Next.js, React.js
+- Vuex, Vuetify, Tailwind.css
+
+#### Cloud・Tool
+- GCP: Cloud Run, Cloud Build, Cloud Pub/Sub, LoadBalancer, Cloud Armor, Cloud Storage, RDS
+- Firebase: Firebase Authentication, Firestore
+- Github Action
+- MySQL
+- Docker, docker-compose
+- Swagger
