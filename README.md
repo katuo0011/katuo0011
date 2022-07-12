@@ -74,6 +74,9 @@
 - Circle CI, Github Action
 - Redash, Treasure Data, Data Dog, Sentry
 
+#### Releated Link
+- [DELISH KITCHEN](https://delishkitchen.tv/)
+
 
 ## SIDE JOB
 
