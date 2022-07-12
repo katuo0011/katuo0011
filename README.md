@@ -7,9 +7,9 @@
 
 ## SUMMARY
 
-- 6 years of experience in developing web applications
+- 4 years of experience in developing web applications
 - 2 years of experience in developling hardware of IOT in 3D printer
-- experience of frontend techlead
+- experience of frontend TechLead
 - experience of team management
 - experience of recruiting
 
@@ -31,14 +31,39 @@
 2021/6 ~ now
 
 #### Language
-- Ruby, TypeScript, JavaScript, Slim
+- Ruby, TypeScript, JavaScript
 
-#### FW/Library
-- Rails, Vue.js (V2, V3), Stimulus.js
+#### FW・Library
+- Rails, Vue.js (v2, v3), Stimulus.js
 - Sidekiq
 - Webpack, Storybook, Taildiwnd.css
 - Rspec, Jest, Vue-Test-Utils
 
-#### Cloud/Tool
-- AWS: ECS, ALB, Cloud Watch, S3 ...etc
-- MySQL, Docker, Circle CI, Data Dog, Rollbar ..etc
+#### Cloud・Tool
+- AWS: ECS, ALB, Cloud Watch, S3, RDB
+- MySQL
+- Docker
+- Circle CI, Data Dog, Rollbar
+
+
+
+### Inc, Every
+
+※ 2019/2 ~ 2020/3 is intern period
+
+#### Language
+- Go, Ruby, Node.js
+- JavaScript
+
+#### FW・Library
+- Echo, Express.js
+- Nuxt.js, Vue.js, Riot.js
+- Vuex, Vuetify, Storyboard
+- Fluentd
+
+#### Cloud・Tool
+- AWS: Application Load Balancer, Cloud Front, Cloud Watch, ElasticSearch, ECS, ECS Task schedule, S3, RDB
+- MySQL
+- Docker
+- Circle CI, Github Action
+- Redash, Treasure Data, Data Dog, Sentry
