@@ -11,7 +11,7 @@
 - 2 years of experience in developling hardware of IOT in 3D printer
 - experience of frontend TechLead
 - experience of team management
-- experience of recruiting
+- experience of enginner recruiting
 
 
 
