@@ -47,9 +47,9 @@
 - Circle CI, Data Dog, Rollbar
 
 #### Related Link
-- [「数値集計」機能をリリースしました](https://biz.moneyforward.com/support/attendance/news/new-feature/20211217.html)
+- [『マネーフォワード クラウド勤怠』とクラウド型シフト管理サービス『oplus 』がAPI連携を開始](https://prtimes.jp/main/html/rd/p/000000865.000008962.html)
 - [「回数集計」機能で自動集計設定を行えるようになりました](https://biz.moneyforward.com/support/attendance/news/new-feature/20220519.html)
-
+- [「数値集計」機能をリリースしました](https://biz.moneyforward.com/support/attendance/news/new-feature/20211217.html)
 
 
 ### Inc, Every
