@@ -16,14 +16,14 @@
 
 
 ## ARTICLES
-#### Front End
+**FrontEnd**
 - [Money Forward: [勤怠FEギルド] 意外と知られていないVue.jsのRender Functionを紹介する](https://moneyforward.com/engineers_blog/2022/07/28/introduce-render-function/)
 - [Money Forward:「Vue Test Utils」を導入して、Vue Componentの単体テストを書けるようにした話](https://moneyforward.com/engineers_blog/2021/12/17/vue-test-utils/)
 
-#### Back End
+**Back End**
 - [Money Forward:【Ruby】クラウド勤怠におけるゴーストメソッド利用例](https://moneyforward.com/engineers_blog/2022/03/17/ghost-method-for-attendance/)
 
-#### QA
+**QA**
 - [Money Forward:【クラウド勤怠】QAがチームに入ったことで変化したソフトウェア品質向上に向けた活動](https://moneyforward.com/engineers_blog/2022/06/02/quality-improvement-with-qae/)
 - [Money Forward:【クラウド勤怠】爆発する組み合わせテストと真摯に向き合う](https://moneyforward.com/engineers_blog/2022/05/17/face-to-combinational-testing/)
 
