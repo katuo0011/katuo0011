@@ -80,6 +80,7 @@
 
 #### Releated Link
 - [DELISH KITCHEN](https://delishkitchen.tv/)
+- [DELISH KITCHEN | LINE Official Account](https://page.line.me/hta0453h)
 
 
 ## SIDE JOB
