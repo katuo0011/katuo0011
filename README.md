@@ -96,13 +96,13 @@
 #### FW・Library
 - Echo, Goa, 
 - Nuxt.js, Vue.js (v2, v3), Next.js, React.js
-- Vuex, Vuetify, Tailwind.css
+- Vuex, Pinia, Vuetify, Tailwind.css
 
 #### Cloud・Tool
 - GCP: Cloud Run, Cloud Build, Cloud Pub/Sub, LoadBalancer, Cloud Armor, Cloud Storage, Cloud SQL
 - Firebase: Firebase Authentication, Firestore
 - Github Action
-- MySQL
+- MySQL, FireStore
 - Docker, Docker Compose
 - Swagger
 - raspberry pi4, duet 3D
