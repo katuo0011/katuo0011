@@ -1,10 +1,3 @@
-
-## 🎓: EDUCATION
-- Hosei University (2016 ~ 2020)
-- Faculty of Science and Engineering / Department of Electrical and Electronic Engineering 
-- Thesis: 「Properties of Minimal Phase」
-  
-
 ## 📖: SUMMARY
 
 - 4 years of experience in developing web applications
@@ -14,8 +7,11 @@
 - experience of enginner recruiting
 
 
-
-
+## 🎓: EDUCATION
+- Hosei University (2016 ~ 2020)
+- Faculty of Science and Engineering / Department of Electrical and Electronic Engineering 
+- Thesis: 「Properties of Minimal Phase」
+  
 
 ## 🏢: MAIN JOB
 
