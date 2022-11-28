@@ -72,7 +72,6 @@
 
 ### Inc, Polyuse
 
-2020/4 ~ now
 
 #### Language
 - Golang, Python
