@@ -97,7 +97,7 @@
 - [3Dプリンタで建設業をDXするPolyuse（ポリウス）、8,000万円をシード調達](https://thebridge.jp/2021/04/polyuse-seed-round-funding?fbclid=IwAR2If4jbob5lILWe0At5eumIN2kE2CbKjfK75zConkb0gBSQa2CIeMn8rAM)
 
 
-## 📗: ARTICLES
+## 📕: ARTICLES
 - [TechBlog: [FEギルド] クラウド勤怠のフロントエンド生産性を高めるために半年取り組んできたこと](https://moneyforward.com/engineers_blog/2022/11/24/improvement-fronend-half-a-year/)
 - [TechBlog: [勤怠FEギルド] Jestを使ってファイル・ディレクトリの命名規約をテストする](https://moneyforward.com/engineers_blog/2022/08/30/naming-convention-by-jest/)
 - [TechBlog: [勤怠FEギルド] 意外と知られていないVue.jsのRender Functionを紹介する](https://moneyforward.com/engineers_blog/2022/07/28/introduce-render-function/)
@@ -106,5 +106,5 @@
 - [TechBlog: 【クラウド勤怠】QAがチームに入ったことで変化したソフトウェア品質向上に向けた活動](https://moneyforward.com/engineers_blog/2022/06/02/quality-improvement-with-qae/)
 - [TechBlog: 【クラウド勤怠】爆発する組み合わせテストと真摯に向き合う](https://moneyforward.com/engineers_blog/2022/05/17/face-to-combinational-testing/)
 
-## 🗣: SPEAKER
+## 📘: SPEAKER
 - [Scrum Fest Niigata 2022: 開発エンジニアに聞いてみよう！QAが開発チームへに潜入し、一緒に品質活動をしているが、ぶっちゃけどう？](https://confengine.com/conferences/scrum-fest-niigata-2022/proposal/16455/qa)
