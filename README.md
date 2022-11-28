@@ -13,7 +13,7 @@
 - Thesis: 「Properties of Minimal Phase」
   
 
-## 🏢: MAIN JOB
+## 👨‍💻: MAIN JOB
 
 ### Inc, Money Forword
 
@@ -68,7 +68,7 @@
 - [DELISH KITCHEN | LINE Official Account](https://page.line.me/hta0453h)
 
 
-## 🏢: SIDE JOB
+## 👩‍💻: SIDE JOB
 
 ### Inc, Polyuse
 
