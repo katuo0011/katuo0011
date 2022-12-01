@@ -2,9 +2,9 @@
 
 - 4 years of experience in developing web applications
 - 2 years of experience in developling hardware of IOT in 3D printer
-- experience of frontend TechLead
-- experience of team management
-- experience of enginner recruiting
+- Experience of frontend TechLead
+- Experience of team management
+- Experience of enginner recruiting
 
 
 ## 🎓: EDUCATION
