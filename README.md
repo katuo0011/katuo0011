@@ -92,11 +92,6 @@
 - raspberry pi4, duet 3D
 
 
-#### Related Link
-- [中国地方初！！建設用3Dプリンタの実証実験＆見学会 レポート！「Polyuse」と「加藤組（広島県）」がタッグ](https://digital-construction.jp/column/318)
-- [3Dプリンタで建設業をDXするPolyuse（ポリウス）、8,000万円をシード調達](https://thebridge.jp/2021/04/polyuse-seed-round-funding?fbclid=IwAR2If4jbob5lILWe0At5eumIN2kE2CbKjfK75zConkb0gBSQa2CIeMn8rAM)
-
-
 ## 📕: ARTICLES
 - [TechBlog: 【クラウド勤怠】 フロントエンド生産性を高めるために半年取り組んできたこと](https://moneyforward.com/engineers_blog/2022/11/24/improvement-fronend-half-a-year/)
 - [TechBlog: 【クラウド勤怠】 Jestを使ってファイル・ディレクトリの命名規約をテストする](https://moneyforward.com/engineers_blog/2022/08/30/naming-convention-by-jest/)
