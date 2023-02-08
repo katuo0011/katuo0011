@@ -25,7 +25,7 @@
 #### FW・Library
 - Rails, Vue.js (v2, v3), Stimulus.js
 - Sidekiq
-- Webpack, Storybook, Taildiwnd.css
+- Webpack, Storybook, Tailwind.css
 - Rspec, Jest, Vue-Test-Utils
 
 #### Cloud・Tool
