@@ -1,9 +1,8 @@
 ## 基本情報
 
 ### 経歴
-- Hosei University (2016 ~ 2020)
-- Faculty of Science and Engineering / Department of Electrical and Electronic Engineering 
-- Thesis: 「Properties of Minimal Phase」
+- 電気電子工学専攻 (2016~2020)
+- 卒業論文: 「Properties of Minimal Phase」
 
 ### 所属
 - 株式会社マネーフォワード
