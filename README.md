@@ -1,10 +1,17 @@
-## 🎓: EDUCATION
+## 基本情報
+
+### 経歴
 - Hosei University (2016 ~ 2020)
 - Faculty of Science and Engineering / Department of Electrical and Electronic Engineering 
 - Thesis: 「Properties of Minimal Phase」
-  
 
-## 📔: ARTICLES
+### 所属
+- 株式会社マネーフォワード (2021/06 ~ now)
+- 株式会社エブリー (2019/01 ~ 2021/05)
+
+## 外部発信
+
+### 技術ブログ
 - [フロントエンド生産性を高めるために半年取り組んできたこと](https://moneyforward.com/engineers_blog/2022/11/24/improvement-fronend-half-a-year/)
 - [Jestを使ってファイル・ディレクトリの命名規約をテストする](https://moneyforward.com/engineers_blog/2022/08/30/naming-convention-by-jest/)
 - [意外と知られていないVue.jsのRender Functionを紹介する](https://moneyforward.com/engineers_blog/2022/07/28/introduce-render-function/)
@@ -13,5 +20,5 @@
 - [QAがチームに入ったことで変化したソフトウェア品質向上に向けた活動](https://moneyforward.com/engineers_blog/2022/06/02/quality-improvement-with-qae/)
 - [爆発する組み合わせテストと真摯に向き合う](https://moneyforward.com/engineers_blog/2022/05/17/face-to-combinational-testing/)
 
-## 📔: SPEAKER
+### 登壇
 - [Scrum Fest Niigata 2022: 開発エンジニアに聞いてみよう！QAが開発チームへに潜入し、一緒に品質活動をしているが、ぶっちゃけどう？](https://confengine.com/conferences/scrum-fest-niigata-2022/proposal/16455/qa)
