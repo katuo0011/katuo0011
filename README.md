@@ -1,12 +1,3 @@
-## 📖: SUMMARY
-
-- 4 years of experience in developing web applications
-- 2 years of experience in developling hardware of IOT in 3D printer
-- Experience of frontend TechLead
-- Experience of team management
-- Experience of enginner recruiting
-
-
 ## 🎓: EDUCATION
 - Hosei University (2016 ~ 2020)
 - Faculty of Science and Engineering / Department of Electrical and Electronic Engineering 
