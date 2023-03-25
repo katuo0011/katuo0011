@@ -12,11 +12,31 @@
 
 ### 言語
 
-| 言語名 | 経験年数 | 
+| 言語名 | 経験年数 (約) | 
 --- | ----
-| JavaScript・TypeScript | 6年
+| JavaScript・TypeScript | 6年 |
 | Golang | 4年 | 
 | Ruby | 3年 | 
+
+### FW
+
+フロントエンド
+
+| 名称 | 経験年数 (約) | 
+--- | ----
+| Vue.js | 4年 |
+| React.js | 2年 |
+| Angular.js | 1年 |
+| Riot.js | 1年 |
+| Nuxt.js | 4年 |
+| Next.js | 1年 |
+
+バックエンド
+
+| 名称 | 経験年数 (約) | 
+--- | ----
+| Echo (Golang) | 4年 |
+| Rails | 2年 |
 
 
 ## 外部発信
