@@ -35,7 +35,7 @@
 
 | 名称 | 経験年数 (約) | 
 --- | ----
-| Echo (Golang) | 4年 |
+| echo (Go) | 4年 |
 | Ruby on Rails | 2年 |
 
 
