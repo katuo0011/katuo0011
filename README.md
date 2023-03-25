@@ -2,7 +2,7 @@
 
 ### 経歴
 - 電気電子工学専攻
-- 卒業論文: *Properties of Minimal Phase*
+- 卒業論文: 「*Properties of Minimal Phase*」
 
 ### 所属
 - 株式会社マネーフォワード
@@ -36,7 +36,7 @@
 | 名称 | 経験年数 (約) | 
 --- | ----
 | Echo (Golang) | 4年 |
-| Rails | 2年 |
+| Ruby on Rails | 2年 |
 
 
 ## 外部発信
