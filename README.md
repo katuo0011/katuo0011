@@ -1,22 +1,21 @@
-## 基本情報
+## Basic Information
 
-### 経歴
-- 電気電子工学専攻
+### Career
+- Specialized in Electrical and Electronics Engineering
 
-### 所属
-- 株式会社マネーフォワード
+### Affiliation
+- Money Forward, Inc.
 
 
-## 外部発信
+## External Communication
 
-### 技術ブログ
-- [フロントエンド生産性を高めるために半年取り組んできたこと](https://moneyforward.com/engineers_blog/2022/11/24/improvement-fronend-half-a-year/)
-- [Jestを使ってファイル・ディレクトリの命名規約をテストする](https://moneyforward.com/engineers_blog/2022/08/30/naming-convention-by-jest/)
-- [意外と知られていないVue.jsのRender Functionを紹介する](https://moneyforward.com/engineers_blog/2022/07/28/introduce-render-function/)
-- [Vue Test Utilsを導入して、Vue Componentの単体テストを書けるようにした話](https://moneyforward.com/engineers_blog/2021/12/17/vue-test-utils/)
-- [クラウド勤怠におけるゴーストメソッド利用例](https://moneyforward.com/engineers_blog/2022/03/17/ghost-method-for-attendance/)
-- [QAがチームに入ったことで変化したソフトウェア品質向上に向けた活動](https://moneyforward.com/engineers_blog/2022/06/02/quality-improvement-with-qae/)
-- [爆発する組み合わせテストと真摯に向き合う](https://moneyforward.com/engineers_blog/2022/05/17/face-to-combinational-testing/)
+### Technical Blog
+- [What we've been doing for the past six months to improve frontend productivity](https://moneyforward.com/engineers_blog/2022/11/24/improvement-fronend-half-a-year/)
+- [Testing naming conventions for files and directories with Jest](https://moneyforward.com/engineers_blog/2022/08/30/naming-convention-by-jest/)
+- [Introducing the lesser-known Render Function of Vue.js](https://moneyforward.com/engineers_blog/2022/07/28/introduce-render-function/)
+- [Introducing Vue Test Utils and writing unit tests for Vue Components](https://moneyforward.com/engineers_blog/2021/12/17/vue-test-utils/)
+- [Use case of ghost methods in cloud-based attendance management](https://moneyforward.com/engineers_blog/2022/03/17/ghost-method-for-attendance/)
+- [Facing the explosion of combinatorial testing with sincerity](https://moneyforward.com/engineers_blog/2022/05/17/face-to-combinational-testing/)
 
-### 登壇
-- [Scrum Fest Niigata 2022: 開発エンジニアに聞いてみよう！QAが開発チームへに潜入し、一緒に品質活動をしているが、ぶっちゃけどう？](https://confengine.com/conferences/scrum-fest-niigata-2022/proposal/16455/qa)
+### Speaking Engagements
+- [Scrum Fest Niigata 2022: Let's ask the development engineers! QA infiltrates the development team to work on quality activities together, but frankly, how is it?](https://confengine.com/conferences/scrum-fest-niigata-2022/proposal/16455/qa)
