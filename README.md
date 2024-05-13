@@ -10,6 +10,7 @@
 ## External Communication
 
 ### Technical Blog
+- [Executing Over 7,500 Test Cases to Ensure the Accuracy of Aggregation Logic – Money Forward Developers Blog](https://global.moneyforward-dev.jp/2024/05/13/executing-over-7500-test-cases-to-ensure-the-accuracy-of-aggregation-logic/)
 - [What we've been doing for the past six months to improve frontend productivity](https://moneyforward.com/engineers_blog/2022/11/24/improvement-fronend-half-a-year/)
 - [Testing naming conventions for files and directories with Jest](https://moneyforward.com/engineers_blog/2022/08/30/naming-convention-by-jest/)
 - [Introducing the lesser-known Render Function of Vue.js](https://moneyforward.com/engineers_blog/2022/07/28/introduce-render-function/)
