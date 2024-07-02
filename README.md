@@ -10,13 +10,8 @@
 ## External Communication
 
 ### Technical Blog
+- [How to Migrate from Vue 2 to Vue 3 in Large-Scale Applications](https://global.moneyforward-dev.jp/2024/07/02/how-to-migrate-from-vue-2-to-vue-3-in-large-scale-applications/)
 - [Executing Over 7,500 Test Cases to Ensure the Accuracy of Aggregation Logic – Money Forward Developers Blog](https://global.moneyforward-dev.jp/2024/05/13/executing-over-7500-test-cases-to-ensure-the-accuracy-of-aggregation-logic/)
-- [What we've been doing for the past six months to improve frontend productivity](https://moneyforward.com/engineers_blog/2022/11/24/improvement-fronend-half-a-year/)
-- [Testing naming conventions for files and directories with Jest](https://moneyforward.com/engineers_blog/2022/08/30/naming-convention-by-jest/)
-- [Introducing the lesser-known Render Function of Vue.js](https://moneyforward.com/engineers_blog/2022/07/28/introduce-render-function/)
-- [Introducing Vue Test Utils and writing unit tests for Vue Components](https://moneyforward.com/engineers_blog/2021/12/17/vue-test-utils/)
-- [Use case of ghost methods in cloud-based attendance management](https://moneyforward.com/engineers_blog/2022/03/17/ghost-method-for-attendance/)
-- [Facing the explosion of combinatorial testing with sincerity](https://moneyforward.com/engineers_blog/2022/05/17/face-to-combinational-testing/)
 
 ### Speaking Engagements
 - [Scrum Fest Niigata 2022: Let's ask the development engineers! QA infiltrates the development team to work on quality activities together, but frankly, how is it?](https://confengine.com/conferences/scrum-fest-niigata-2022/proposal/16455/qa)
